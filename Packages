@@ -1,0 +1,19 @@
+Package: iot-edge-kiosk
+Version: 0.0.1
+Architecture: armhf
+Maintainer: Jack Stephenson
+Installed-Size: 139233
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
+Recommends: pulseaudio | libasound2
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
+Filename: ./iot-edge-kiosk_0.0.1_armhf.deb
+Size: 51248564
+MD5sum: 4b61b6e467293e53f9538c417947e525
+SHA1: 09dc7062e7e37893d65e117981cd7ad9e40b2be9
+SHA256: 701a313de227cc0bf0ba026b294685b76e83c43091f10e984b4705fad1fc4ae2
+Section: utils
+Priority: optional
+Homepage: https://www.ucworkspace.com
+Description: Kiosk UI for NEC CM4
+ Kiosk UI for NEC CM4
+
