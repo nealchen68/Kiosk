@@ -1,16 +1,16 @@
 Package: iot-edge-kiosk
-Version: 0.0.12
+Version: 0.0.13
 Architecture: armhf
 Maintainer: Jack Stephenson
 Installed-Size: 139674
 Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
 Recommends: pulseaudio | libasound2
 Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
-Filename: ./iot-edge-kiosk_0.0.12_armhf.deb
-Size: 51357680
-MD5sum: d0bdadc7410616385a2909bfc261c47f
-SHA1: 1346d687e39df25395bb893b0fb4f6ed27eb5502
-SHA256: f378448107941112e0cfdf4edded3ce71fad0c2fa70bf94f2129fed9f80e4f32
+Filename: ./iot-edge-kiosk_0.0.13_armhf.deb
+Size: 51350452
+MD5sum: 9786b86bcf7c62be3bd224da4934b993
+SHA1: 5ead0dd2831ad608d20ad16fdd1ce47c11ff6089
+SHA256: af2f17da4e59692f58c22d9d1068e5123da22f20c8c296cf81c62d8929610217
 Section: utils
 Priority: optional
 Homepage: https://www.ucworkspace.com
